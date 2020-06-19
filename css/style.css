@@ -267,7 +267,7 @@ footer .nav a { color:white; text-decoration: none;}
   color: #06D85F;
 }
 .popup .content {
-  max-height: 40%;
+  max-height: auto;
   overflow: auto;
 }
 
