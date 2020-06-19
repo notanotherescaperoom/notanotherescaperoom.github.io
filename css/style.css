@@ -298,7 +298,7 @@ footer .nav a { color:white; text-decoration: none;}
     display: flex;
     -webkit-flex-flow: wrap column; /* Safari 6.1+ */
     flex-flow: wrap column;
-    max-height: 20em;              /* Limit height to whatever you need */
+    max-height: 40em;              /* Limit height to whatever you need */
   }
 }
 
