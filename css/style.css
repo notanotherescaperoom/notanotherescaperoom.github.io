@@ -80,6 +80,7 @@ h2{
 
 .card-btn{
   padding-top:1em;
+  text-align:center;
 }
 
 .nav-link{
@@ -185,6 +186,7 @@ footer .nav a { color:white; text-decoration: none;}
 
   .card-btn{
     padding-top:1em;
+    text-align: center;
   }
 
   .nav-link{
@@ -285,7 +287,7 @@ footer .nav a { color:white; text-decoration: none;}
     width: 70%;
     justify-content: center;
   }
-  
+
   .popup h2 {
     margin-top: 0.75em;
     color: #333;
@@ -301,5 +303,3 @@ footer .nav a { color:white; text-decoration: none;}
     max-height: 40em;              /* Limit height to whatever you need */
   }
 }
-
-
